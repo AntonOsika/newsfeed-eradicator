@@ -22,10 +22,6 @@
 	<dict>
 		<key>Scripts</key>
 		<dict>
-			<key>End</key>
-			<array>
-				<string>erad.js</string>
-			</array>
 			<key>Start</key>
 			<array>
 				<string>erad.js</string>
