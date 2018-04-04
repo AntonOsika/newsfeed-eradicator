@@ -22,4 +22,6 @@ var tryRemove = function () {
 }
 }
 
-setInterval(tryRemove, 100);
+if(window.location.host === 'www.facebook.com') {
+    setInterval(tryRemove, 100);
+}
