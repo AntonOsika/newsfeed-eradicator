@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Anton Osika</string>
 	<key>Builder Version</key>
-	<string>10600.6.3</string>
+	<string>13605.1.33.1.2</string>
 	<key>CFBundleDisplayName</key>
 	<string>Newsfeed-Eradicator</string>
 	<key>CFBundleIdentifier</key>
@@ -38,10 +38,14 @@
 	<dict>
 		<key>Website Access</key>
 		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>*.facebook.com</string>
+			</array>
 			<key>Include Secure Pages</key>
 			<true/>
 			<key>Level</key>
-			<string>All</string>
+			<string>Some</string>
 		</dict>
 	</dict>
 	<key>Website</key>
