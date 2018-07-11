@@ -5,4 +5,5 @@ I used and liked his Chrome extension, but I like safari for it's power manageme
 
 I don't have a safari developer account anymore so will not update the extension. 
 It can however be built and added manually if you clone this repo.
+
 Also you can check out https://github.com/maxfriedrich/quiet-facebook for a simpler solution.
